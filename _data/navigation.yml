@@ -1,0 +1,7 @@
+main:
+  - title: "Programme"
+    url: /programme/
+  - title: "Organisation"
+    url: /organisation/
+  - title: "Contact"
+    url: /contact/

@@ -1,2 +1,2 @@
 # robontics.github.io
-Website for RobOntics workshop.
+Website for the RobOntics workshop.
