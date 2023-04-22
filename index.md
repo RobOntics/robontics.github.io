@@ -71,7 +71,7 @@ Beside regular papers, position and survey papers are also welcome. All the cont
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members. 
 Papers must be submitted electronically in PDF, using this link:
 
-- [https://easychair.org/conferences/?conf=jowo2022](https://easychair.org/conferences/?conf=jowo2022)
+- [https://easychair.org/conferences/?conf=robontics2023](https://easychair.org/conferences/?conf=robontics2023)
 
 
 **PUBLICATION**
