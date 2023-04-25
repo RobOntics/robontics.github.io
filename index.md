@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [RO-MAN 2023](http://ro-man2023.org/main), Busan, Korea
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [RO-MAN 2023](http://ro-man2023.org/main), Busan, Korea (hybrid event -- online participation also possible)
 
 We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *June 30*.
 Researchers with accepted papers will be invited to present at the RobOntics 2023 workshop.
@@ -27,7 +27,7 @@ One of the difficulties is the amount of real-world knowledge that an agent need
 
 - Submission deadline: June 30, 2023
 - Notification: July 15, 2023
-- Workshop: TBD (between August 28 and 31, 2023)
+- Workshop: August 28, 2023
 
 **LIST OF TOPICS (partial)**
 
