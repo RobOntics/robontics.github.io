@@ -62,6 +62,7 @@ what is an explanation? what is a good explanation? how it be generated from a c
 - Aldo Gangemi, University of Bologna and ISTC-CNR, Italy
 - Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany
 - Robert Porzel, Digital Media Lab, University of Bremen, Germany
+- Daniele Francesco Santamaria, Department of Mathematics and Informatics, University of Catania, Italy
 
 
 **SUBMISSION INFORMATION**
