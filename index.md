@@ -25,8 +25,8 @@ One of the difficulties is the amount of real-world knowledge that an agent need
 
 **IMPORTANT DATES**
 
-- Submission deadline: June 30, 2023
-- Notification: July 15, 2023
+- Submission deadline: July 7, 2023
+- Notification: July 22, 2023
 - Workshop: August 28, 2023
 
 **LIST OF TOPICS (partial)**
