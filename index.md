@@ -10,7 +10,7 @@ header:
 
 International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [RO-MAN 2023](http://ro-man2023.org/main), Busan, Korea (hybrid event -- online participation also possible)
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *June 30*.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *July 07*.
 Researchers with accepted papers will be invited to present at the RobOntics 2023 workshop.
 
 **WORKSHOP MOTIVATION**
