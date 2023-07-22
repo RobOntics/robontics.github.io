@@ -27,11 +27,12 @@ One of the difficulties is the amount of real-world knowledge that an agent need
 
 - Submission deadline: July 7, 2023
 - Notification: July 22, 2023
+- Camera ready version: August 14, 2023
 - Workshop: August 28, 2023
 
 **LIST OF TOPICS (partial)**
 
-Participants are invited to submit original extended abstract (2-4 pages) or papers (5-8 pages) on topics such as:
+Participants are invited to submit original extended abstract (2-4 pages + references) or papers (5-8 pages + references) on topics such as:
 
 - Foundational issues: 
 	- Are there some ontological approaches better suited than others for autonomous robotics? why?
@@ -77,7 +78,7 @@ Papers must be submitted electronically in PDF, using this link:
 
 **PUBLICATION**
 
-Depending on interest, accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)) or a special issue in a suitable journal will be organized.
+Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)). Depending on interest, a special issue in a suitable journal will be organized.
 
 
 (Banner image made by the US Food and Drug Administration and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:The_Thacher_Calculator_(33148590206).jpg) under the United States Government Work license.)
