@@ -17,4 +17,9 @@ The 4th RobOntics Workshop will be held at RO-MAN 2023 in Busan, Korea.
 
 **Scientific Committee**
 
-To be announced.
+- Mona Abdel-Keream, Institute for Artificial Intelligence, University of Bremen, Germany.
+- Kaviya Dhanabalachandran, Institute for Artificial Intelligence, University of Bremen, Germany.
+- Stefano de Giorgis, Department of Philosophy and Communication Studies, University of Bologna, Italy.
+- Alina Hawkin, Institute for Artificial Intelligence, University of Bremen, Germany.
+- Sascha Jongebloed, Institute for Artificial Intelligence, University of Bremen, Germany.
+- Robin Nolte, Digital Media Lab, University of Bremen, Germany.
