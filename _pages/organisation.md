@@ -13,12 +13,12 @@ The 4th RobOntics Workshop will be held at RO-MAN 2023 in Busan, Korea.
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Mihai Pomarlan, Faculty of Linguistics, University of Bremen, Germany
 - Mohammed Diab, Personal Robotics Laboratory, Imperial College London, UK
-- Daniele Francesco Santamaria, Department of Mathematics and Informatics, University of Catania, Italy
 
 **Scientific Committee**
 
 - Mona Abdel-Keream, Institute for Artificial Intelligence, University of Bremen, Germany.
 - Kaviya Dhanabalachandran, Institute for Artificial Intelligence, University of Bremen, Germany.
+- Daniele Francesco Santamaria, Department of Mathematics and Informatics, University of Catania, Italy
 - Stefano de Giorgis, Department of Philosophy and Communication Studies, University of Bologna, Italy.
 - Alina Hawkin, Institute for Artificial Intelligence, University of Bremen, Germany.
 - Sascha Jongebloed, Institute for Artificial Intelligence, University of Bremen, Germany.
