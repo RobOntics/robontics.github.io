@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 excerpt: '4th edition of the Ontologies for Autonomous Robots Workshop'
 header:
-  overlay_image: /images/banner.jpg
+  overlay_image: /images/Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
@@ -80,4 +80,4 @@ Papers must be submitted electronically in PDF, using this link:
 Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)). Depending on interest, a special issue in a suitable journal will be organized.
 
 
-(Banner image made by the US Food and Drug Administration and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:The_Thacher_Calculator_(33148590206).jpg) under the United States Government Work license.)
+(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg) under the Creative Commons Attribution 2.0 Generic license.)
