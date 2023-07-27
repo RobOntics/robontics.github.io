@@ -4,6 +4,7 @@ title: "Programme"
 ---
 
 Date: 28th of August
+
 Venue: Room A (Sicily Room, 1F). Online participation information is to be announced.
 
 An initial draft of the schedule is provided below. All times are in Korea Standard Time (GMT+9).
