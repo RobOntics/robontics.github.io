@@ -3,7 +3,7 @@ permalink: /speakers/
 title: "Invited speakers"
 ---
 
-![Alessandra Sciutti](https://github.com/robontics/robontics.github.io/blob/main/AlessandraSciutti.jpg?raw=true)
+![Alessandra Sciutti](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandraSciutti.jpg?raw=true)
 # Alessandra Sciutti
 
 Alessandra Sciutti is Tenure Track Researcher, head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute 
@@ -22,7 +22,7 @@ Additionally, it requires the ability to anticipate the outcomes of its actions 
 autonomously choosing appropriate behavior. Drawing inspiration from human cognitive development, we discuss how these skills can be integrated into the 
 design of cognitive robots, significantly enhancing their capacity to interact effectively with humans.
 
-![Alessandro Umbrico](https://github.com/robontics/robontics.github.io/blob/main/AlessandroUmbrico.jpg?raw=true)
+![Alessandro Umbrico](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandroUmbrico.jpg?raw=true)
 
 # Alessandro Umbrico
 
