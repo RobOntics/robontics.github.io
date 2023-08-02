@@ -22,6 +22,8 @@ Additionally, it requires the ability to anticipate the outcomes of its actions 
 autonomously choosing appropriate behavior. Drawing inspiration from human cognitive development, we discuss how these skills can be integrated into the 
 design of cognitive robots, significantly enhancing their capacity to interact effectively with humans.
 
+---
+
 ![Alessandro Umbrico](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandroUmbrico.jpg?raw=true)
 
 # Alessandro Umbrico
