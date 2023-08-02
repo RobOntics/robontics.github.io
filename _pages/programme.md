@@ -9,6 +9,8 @@ Venue: Room A (Sicily Room, 1F). Online participation information is to be annou
 
 For online presenters: we request a prerecorded version of your presentation to be made available to us before the workshop start time (e.g., by emailing one of the organizers a link to where they can download the video from). This is to have a backup in case internet connections are poor that day.
 
+Participation in the workshop requires a RO-MAN Workshops and Tutorials registration. This can be obtained from the [RO-MAN website](https://ro-man2023.org/registration/registration). 
+
 An initial draft of the schedule is provided below. All times are in Korea Standard Time (GMT+9).
 
 **Morning Session: “Human-Robot Interaction”**
