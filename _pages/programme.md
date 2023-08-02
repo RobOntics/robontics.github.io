@@ -13,7 +13,7 @@ An initial draft of the schedule is provided below. All times are in Korea Stand
 
 **Morning Session: “Human-Robot Interaction”**
 
-- 09:00 - 10:00 *invited talk* Alessandra Scuitti (COgNiTive Architecture for Collaborative Technologies Unit of the Italian Institute of Technology (IIT), Italy)
+- 09:00 - 10:00 *invited talk* Alessandra Sciutti (COgNiTive Architecture for Collaborative Technologies Unit of the Italian Institute of Technology (IIT), Italy)
 - 10:00 - 10:15 Simone De Martino, Marianna Nicolosi-Asmundo, Stefano Angelo Rizzo and Daniele Francesco Santamaria: Modeling the video game environment: the VideOWL ontology
 - 10:15 - 10:30 Petr Vanc, Karla Stepanova and Daniel Bessler: Ontological Context for Gesture Interpretation
 - 10:30 - 10:45 *coffee break*
