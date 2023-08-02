@@ -36,7 +36,7 @@ He participated in several projects e.g., AAL EU Projects EasyReach, MAESTRO, TV
 valuable experience in gathering requirements from different stakeholders (e.g., end-users, and healthcare professionals) and designing AI-based services 
 taking into account the different perspectives and needs.
 
-## Talk Ontology-Enhanced Control for Effective Human-Robot Interaction
+## Talk: "Ontology-Enhanced Control for Effective Human-Robot Interaction"
 
 *Abstract*: Autonomous robots acting in working and social contexts require the development of cognitive capabilities necessary to realize adaptive, 
 contextualized, and safe behaviors. Artificial Intelligence (AI) technologies well-support the implementation of relevant capabilities e.g., 
