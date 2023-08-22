@@ -5,7 +5,7 @@ title: "Programme"
 
 Date: 28th of August
 
-Venue: Room A (Sicily Room, 1F). Online participation information is to be announced.
+Venue: Room A (Sicily Room, 1st Floor). Online participation information is to be announced.
 
 For online presenters: we request a prerecorded version of your presentation to be made available to us before the workshop start time (e.g., by emailing one of the organizers a link to where they can download the video from). This is to have a backup in case internet connections are poor that day.
 
