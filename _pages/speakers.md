@@ -6,7 +6,7 @@ title: "Invited speakers"
 ![Alessandra Sciutti](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandraSciutti.jpg?raw=true)
 # Alessandra Sciutti
 
-Alessandra Sciutti is Tenure Track Researcher, head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute 
+Alessandra Sciutti is a Tenure Track Researcher, head of the CONTACT (COgNiTive Architecture for Collaborative Technologies) Unit of the Italian Institute 
 of Technology (IIT). She received her B.S and M.S. degrees in Bioengineering and the Ph.D. in Humanoid Technologies from the University of Genova in 2010. 
 After two research periods in USA and Japan, in 2018 she has been awarded the ERC Starting Grant wHiSPER (www.whisperproject.eu), focused on the investigation 
 of joint perception between humans and robots. She published more than 80 papers and abstracts in international journals and conferences and participated in 
@@ -28,7 +28,7 @@ design of cognitive robots, significantly enhancing their capacity to interact e
 
 # Alessandro Umbrico
 
-Alessandro Umbricpo (M.S. Engineering Computer Science 2012, Ph.D. Computer Science and Automation, 2017) is a researcher at the Institute of Cognitive 
+Alessandro Umbrico (M.S. Engineering Computer Science 2012, Ph.D. Computer Science and Automation, 2017) is a researcher at the Institute of Cognitive 
 Sciences and Technologies of CNR (CNR-ISTC), Rome, Italy. His research topics cover the development of AI-based planning and execution techniques in 
 Human-Robot Interaction (HRI) scenarios. He investigates the integration of knowledge representation and planning for the design of novel cognitive-inspired 
 control approaches supporting contextualized and adaptive interactions between humans and robots. He contributed to a number of research projects 
