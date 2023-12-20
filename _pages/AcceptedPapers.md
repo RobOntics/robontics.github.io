@@ -3,7 +3,7 @@ permalink: /papers/
 title: "Accepted papers"
 ---
 
-The following papers have been accepted for the proceedings of RobOntics 2023:
+The following papers have been accepted for [the proceedings of RobOntics 2023](https://ceur-ws.org/Vol-3595/):
 
 * Lorenza Saettone, Riccardo Fedriga and Emanuele Micheli: Linguistic and Cultural Competencies in Dynamic Possible Worlds
 
