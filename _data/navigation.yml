@@ -1,6 +1,6 @@
 main:
-  - title: "Accepted Papers"
-    url: /papers/
+  #- title: "Accepted Papers"
+  #  url: /papers/
   - title: "Invited Speakers"
     url: /speakers/
   - title: "Programme"
@@ -9,3 +9,6 @@ main:
     url: /organisation/
   - title: "Contact"
     url: /contact/
+  - title: "Previous Editions"
+    url: /previous/
+

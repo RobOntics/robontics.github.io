@@ -3,6 +3,17 @@ permalink: /robontics2023/
 title: "RobOntics 2023"
 ---
 
+The fourth edition of the International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) took place under the umbrella of the IEEE RO-MAN 2023 Conference in Busan, Korea as a hybrid event – online participation was also possible.
+
+While a broad selection of topics was open to contributors, of particular interest were contributions looking into the problem of modeling culture and social scenarios (broadly understood) via ontology and other knowledge representation techniques.
+
+The important dates were as follows:
+
+* Submission deadline: July 7, 2023
+* Notification: July 22, 2023
+* Camera ready version: August 14, 2023
+* Workshop: August 28, 2023
+
 #Invited speakers
 
 ![Alessandra Sciutti](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandraSciutti.jpg?raw=true)
