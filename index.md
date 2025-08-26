@@ -1,38 +1,74 @@
 ---
-title: 'RobOntics 2023'
+title: 'RobOntics 2025'
 layout: single
 author_profile: false
-excerpt: '4th edition of the Ontologies for Autonomous Robots Workshop'
+excerpt: '5th edition of the Ontologies for Autonomous Robots Workshop'
 header:
   overlay_image: /images/Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [RO-MAN 2023](http://ro-man2023.org/main), Busan, Korea (hybrid event -- online participation also possible)
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [AIxRobotics](http://https://www.aixrobotics.org/), Naples, Italy (hybrid event -- online participation also possible)
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *July 07*.
-Researchers with accepted papers will be invited to present at the RobOntics 2023 workshop.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 15th*.
+Researchers with accepted papers will be invited to present at the RobOntics 2025 workshop.
 
 **WORKSHOP MOTIVATION**
 
-ROBONTICS focuses on the area of robot autonomy enabled by knowledge-driven approaches, and in particular formal ontologies, in all their possible uses. It aims to foster interaction across robotics, ontology, and knowledge representation and reasoning, to investigate promising approaches and to review progress in knowledge-driven robotics.
+RobOntics focuses on autonomous agents informed by knowledge-driven approaches, with particular
+emphasis on formal systems like ontologies, knowledge graphs, and their integration with neural
+architectures. The workshop aims to foster interaction across robotics, ontology, knowledge
+representation and reasoning, and neural computing to investigate promising cognitively-inspired
+knowledge based architectures, neuro-symbolic approaches and review progress in knowledge-driven
+robotics.
 
-Today ontologies are used in robotics and standardization efforts for robotics knowledge management. Many open problems involve autonomous robotic agents operating in natural, artificial or socio-technical environments, and several research projects in healthcare assistance, logistics, autonomous driving, etc, aim to bring robots into realistic human environments.
+Today, the convergence of symbolic knowledge representation and neural learning is reshaping
+robotics and standardization efforts for intelligent robotic systems. Many open problems involve
+autonomous agents that must seamlessly integrate symbolic reasoning with neural perception and
+learning while operating in natural, artificial, or socio-technical environments. Research projects in
+healthcare assistance, logistics, autonomous driving, and human-robot collaboration increasingly
+require robots that can both learn from experience and reason with explicit knowledge in realistic
+human environments.
 
-One of the difficulties is the amount of real-world knowledge that an agent needs to have to be able to act competently and autonomously. Further, any item of knowledge is often relevant for many agents and in several scenarios, and as such should be reusable. To garner trust, to ensure dependability, and to enable debugging, knowledge should also be accessible to human operators, both in terms of explaining what knowledge is present in a system, and of providing ways to easily amend it if necessary.
+One of the key challenges is developing cognitive-inspired architectures that combine the flexibility of
+neural learning with the interpretability and structure of symbolic knowledge. Robotic agents need
+reactive world models that can rapidly adapt to dynamic environments while maintaining coherent
+knowledge representations. Further, knowledge-driven and commonsense knowledge-driven
+interaction capabilities must enable robots to understand, predict, and respond to human intentions and
+behaviors in natural, contextually-appropriate ways. Such knowledge should be reusable across
+different agents and scenarios while remaining accessible and modifiable by human operators.
 
-*Special Topic of RobOntics 2023*: this edition of RobOntics is particularly interested in the problem of modeling culture and social scenarios (broadly understood) via ontology and other knowledge representation techniques.
+To garner trust, ensure dependability, and enable effective human-robot collaboration, hybrid
+intelligence systems must provide transparent explanations of their reasoning processes and offer
+intuitive interfaces for knowledge inspection and modification.
+
+*Special Topic of RobOntics 2025*:
+
+This edition of RobOntics is particularly interested in three interconnected themes:
+
+**Neuro-symbolic architectures for autonomous agents**: Exploring architectures that integrate neural
+networks with symbolic reasoning systems, enabling robots to learn from data while maintaining
+interpretable knowledge structures and logical reasoning capabilities.
+
+**Cognitive-inspired world models for knowledge-driven reactive agents**: Investigating how
+cognitive principles can inform the development of dynamic world models that support rapid,
+knowledge-informed reactions to environmental changes while maintaining consistency with learned
+and encoded knowledge.
+
+**Knowledge-driven human-robot interaction**: Examining how ontological knowledge representation
+can enhance robots' understanding of human behavior, intentions, and social contexts to enable more
+natural, effective, and trustworthy human-robot collaboration.
 
 **IMPORTANT DATES**
 
-- Submission deadline: July 7, 2023
-- Notification: July 22, 2023
-- Camera ready version: August 14, 2023
-- Workshop: August 28, 2023
+- Submission deadline: October 15th, 2025
+- Notification: November 7th, 2025
+- Camera ready version: November 28th, 2025
+- Workshop: TBA (December 8th-10th, 2025)
 
 **LIST OF TOPICS (partial)**
 
-Participants are invited to submit original extended abstract (2-4 pages + references) or papers (5-8 pages + references) on topics such as:
+Participants are invited to submit original extended abstract (2-4 pages + references) or papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
 
 - Foundational issues: 
 	- Are there some ontological approaches better suited than others for autonomous robotics? why?
@@ -53,16 +89,12 @@ Participants are invited to submit original extended abstract (2-4 pages + refer
 	- Decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
 what is an explanation? what is a good explanation? how it be generated from a collection of knowledge items?
 
-
-
 **WORKSHOP CO-CHAIRS (alphabetical order)**
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
-- Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Trento, Italy
-- Mohammed Diab, Personal Robotics Laboratory, Imperial College London, UK
-- Aldo Gangemi, University of Bologna and ISTC-CNR, Italy
-- Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany
-- Robert Porzel, Digital Media Lab, University of Bremen, Germany
+- Stefano de Giorgis, Department of Philosophy and Communication Studies, University of Bologna, Italy.
+- Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
+- Nikos Tsiogkas, KU Leuven, Belgium
 
 
 **SUBMISSION INFORMATION**
@@ -72,12 +104,13 @@ Beside regular papers, position and survey papers are also welcome. All the cont
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members. 
 Papers must be submitted electronically in PDF, using this link:
 
-- [https://easychair.org/conferences/?conf=robontics2023](https://easychair.org/conferences/?conf=robontics2023)
+- [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
 
 
 **PUBLICATION**
 
-Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)). Depending on interest, a special issue in a suitable journal will be organized.
+Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
 
 
 (Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg) under the Creative Commons Attribution 2.0 Generic license.)
+
