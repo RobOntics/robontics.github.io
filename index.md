@@ -68,7 +68,7 @@ natural, effective, and trustworthy human-robot collaboration.
 
 **LIST OF TOPICS (partial)**
 
-Participants are invited to submit original extended abstract (2-4 pages + references) or papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
+Participants are invited to submit original papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
 
 - Foundational issues: 
 	- Are there some ontological approaches better suited than others for autonomous robotics? why?
@@ -92,14 +92,14 @@ what is an explanation? what is a good explanation? how it be generated from a c
 **WORKSHOP CO-CHAIRS (alphabetical order)**
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
-- Stefano de Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
+- Stefano De Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
 
 **SUBMISSION INFORMATION**
 
-Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the IOS press format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
+Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the CEUR format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
 
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members. 
 Papers must be submitted electronically in PDF, using this link:
