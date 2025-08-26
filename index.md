@@ -42,20 +42,20 @@ To garner trust, ensure dependability, and enable effective human-robot collabor
 intelligence systems must provide transparent explanations of their reasoning processes and offer
 intuitive interfaces for knowledge inspection and modification.
 
-*Special Topic of RobOntics 2025*:
+**Special Topic of RobOntics 2025**
 
 This edition of RobOntics is particularly interested in three interconnected themes:
 
-**Neuro-symbolic architectures for autonomous agents**: Exploring architectures that integrate neural
+*Neuro-symbolic architectures for autonomous agents*: Exploring architectures that integrate neural
 networks with symbolic reasoning systems, enabling robots to learn from data while maintaining
 interpretable knowledge structures and logical reasoning capabilities.
 
-**Cognitive-inspired world models for knowledge-driven reactive agents**: Investigating how
+*Cognitive-inspired world models for knowledge-driven reactive agents*: Investigating how
 cognitive principles can inform the development of dynamic world models that support rapid,
 knowledge-informed reactions to environmental changes while maintaining consistency with learned
 and encoded knowledge.
 
-**Knowledge-driven human-robot interaction**: Examining how ontological knowledge representation
+*Knowledge-driven human-robot interaction*: Examining how ontological knowledge representation
 can enhance robots' understanding of human behavior, intentions, and social contexts to enable more
 natural, effective, and trustworthy human-robot collaboration.
 
