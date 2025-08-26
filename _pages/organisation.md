@@ -8,7 +8,7 @@ The 5th RobOntics Workshop will be held at AIxRobotics 2025 in Naples, Italy.
 **Organisers**
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
-- Stefano de Giorgis, Department of Philosophy and Communication Studies, University of Bologna, Italy.
+- Stefano de Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 

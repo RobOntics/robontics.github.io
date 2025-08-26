@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [AIxRobotics](http://https://www.aixrobotics.org/), Naples, Italy (hybrid event -- online participation also possible)
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [AIxRobotics](https://www.aixrobotics.org/), Naples, Italy (hybrid event -- online participation also possible)
 
 We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 15th*.
 Researchers with accepted papers will be invited to present at the RobOntics 2025 workshop.
@@ -92,7 +92,7 @@ what is an explanation? what is a good explanation? how it be generated from a c
 **WORKSHOP CO-CHAIRS (alphabetical order)**
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
-- Stefano de Giorgis, Department of Philosophy and Communication Studies, University of Bologna, Italy.
+- Stefano de Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
