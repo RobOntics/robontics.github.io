@@ -14,7 +14,7 @@ The important dates were as follows:
 * Camera ready version: August 14, 2023
 * Workshop: August 28, 2023
 
-#Invited speakers
+# Invited speakers
 
 ![Alessandra Sciutti](https://github.com/robontics/robontics.github.io/blob/main/images/AlessandraSciutti.jpg?raw=true)
 ## Alessandra Sciutti
