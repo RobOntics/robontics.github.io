@@ -105,7 +105,6 @@ Papers will be refereed and accepted on the basis of their merit, originality, a
 Papers must be submitted electronically in PDF, using this link:
 
 - [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
-                                                          https://easychair.org/conferences?conf=robontics2025
 
 
 **PUBLICATION**
