@@ -99,12 +99,13 @@ what is an explanation? what is a good explanation? how it be generated from a c
 
 **SUBMISSION INFORMATION**
 
-Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the CEUR format -- [laTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip) [docx template](https://icbo-conference.github.io/icbo2024/papers/CEUR-Template-1col.docx) [overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). More information about CEUR style submissions is [available here](https://ceur-ws.org/HOWTOSUBMIT.html).
+Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the CEUR format -- [laTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip) [overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). More information about CEUR style submissions is [available here](https://ceur-ws.org/HOWTOSUBMIT.html).
 
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members. 
 Papers must be submitted electronically in PDF, using this link:
 
 - [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
+                                                          https://easychair.org/conferences?conf=robontics2025
 
 
 **PUBLICATION**
