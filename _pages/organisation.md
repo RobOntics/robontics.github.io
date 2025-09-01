@@ -10,6 +10,7 @@ The 5th RobOntics Workshop will be held at AIxRobotics 2025 in Naples, Italy.
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano De Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
+- Robin Nolte, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
 **Scientific Committee**
@@ -23,5 +24,4 @@ The 5th RobOntics Workshop will be held at AIxRobotics 2025 in Naples, Italy.
 - Guendalina Righetti, Department of Philosophy, University of Oslo, Norway​
 - Mohammed Diab, Personal Robotics Laboratory, Imperial College London, UK
 - Alina Hawkin, Institute for Artificial Intelligence, University of Bremen, Germany
-- Robin Nolte, Digital Media Lab, University of Bremen, Germany.
 

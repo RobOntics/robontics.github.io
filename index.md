@@ -94,6 +94,7 @@ what is an explanation? what is a good explanation? how it be generated from a c
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano De Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
+- Robin Nolte, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
 
