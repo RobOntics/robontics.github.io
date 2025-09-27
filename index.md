@@ -10,7 +10,7 @@ header:
 
 International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [AIxRobotics](https://www.aixrobotics.org/), Naples, Italy (hybrid event -- online participation also possible)
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 15th*.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 29th*.
 Researchers with accepted papers will be invited to present at the RobOntics 2025 workshop.
 
 **WORKSHOP MOTIVATION**
@@ -61,8 +61,8 @@ natural, effective, and trustworthy human-robot collaboration.
 
 **IMPORTANT DATES**
 
-- Submission deadline: October 15th, 2025
-- Notification: November 7th, 2025
+- Submission deadline: October 29th, 2025
+- Notification: November 21st, 2025
 - Camera ready version: November 28th, 2025
 - Workshop: TBA (December 8th-10th, 2025)
 
