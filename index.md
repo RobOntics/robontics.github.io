@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 excerpt: '5th edition of the Ontologies for Autonomous Robots Workshop'
 header:
-  overlay_image: /images/Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg
+  overlay_image: /images/banner2025.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
@@ -113,5 +113,5 @@ Papers must be submitted electronically in PDF, using this link:
 Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
 
 
-(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Calculatrice_mécanique_Spitz_and_Co_(51257345281).jpg) under the Creative Commons Attribution 2.0 Generic license.)
+(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Calculatrice_m%C3%A9canique_Spitz_and_Co_(51256612622).jpg) under the Creative Commons Attribution 2.0 Generic license.)
 
