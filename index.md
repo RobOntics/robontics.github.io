@@ -63,8 +63,8 @@ natural, effective, and trustworthy human-robot collaboration.
 
 - Submission deadline: October 29th, 2025
 - Notification: November 21st, 2025
-- Camera ready version: November 28th, 2025
-- Workshop: TBA (December 8th-10th, 2025)
+- Camera ready version: December 12th, 2025
+- Workshop: December 10th, 2025
 
 **LIST OF TOPICS (partial)**
 
