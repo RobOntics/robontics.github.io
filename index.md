@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [AIxRobotics](https://www.aixrobotics.org/), Naples, Italy (hybrid event -- online participation also possible)
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [IEEE RoboticCC 2025](https://www.roboticcomputing.org), Naples, Italy (hybrid event -- online participation also possible)
 
 We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 29th*.
 Researchers with accepted papers will be invited to present at the RobOntics 2025 workshop.
