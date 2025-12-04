@@ -1,6 +1,6 @@
 ---
 permalink: /speakers/
-title: "Invited speakers"
+title: "Invited speaker"
 ---
 
 ![Ilaria Tiddi](https://github.com/robontics/robontics.github.io/blob/main/images/IlariaTiddi.jpg?raw=true)
