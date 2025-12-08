@@ -1,8 +1,8 @@
 main:
   #- title: "Accepted Papers"
   #  url: /papers/
-  - title: "Invited Speakers"
-    url: /speakers/
+  #- title: "Invited Speakers"
+  #  url: /speakers/
   - title: "Programme"
     url: /programme/
   - title: "Organisation"
