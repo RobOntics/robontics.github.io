@@ -4,6 +4,7 @@ title: "Programme"
 ---
 
 Date: December 10th
+
 Time: 15:50 -- 17:20 (Italy time)
 
 Physical location: "Partenope" room.
