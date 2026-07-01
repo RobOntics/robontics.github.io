@@ -10,9 +10,6 @@ header:
 
 International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [IEEE RoboticCC 2025](https://www.roboticcomputing.org), Naples, Italy (hybrid event -- online participation also possible)
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by *October 29th*.
-Researchers with accepted papers will be invited to present at the RobOntics 2025 workshop.
-
 **WORKSHOP MOTIVATION**
 
 RobOntics focuses on autonomous agents informed by knowledge-driven approaches, with particular
