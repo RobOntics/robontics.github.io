@@ -3,6 +3,10 @@ permalink: /previous/
 title: "Previous Editions"
 ---
 
+**RobOntics 2025**
+
+[RobOntics 2025 summary](../robontics2025/)
+
 **RobOntics 2023**
 
 [RobOntics 2023 summary](https://robontics.github.io/robontics2023/)
@@ -18,5 +22,3 @@ title: "Previous Editions"
 **RobOntics 2020**
 
 [RobOntics 2020 website](https://robontics2020.github.io)
-
-
