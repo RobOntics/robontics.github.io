@@ -1,8 +1,8 @@
 ---
-title: 'RobOntics 2025'
+title: "RobOntics 2026"
 layout: single
 author_profile: false
-excerpt: '5th edition of the Ontologies for Autonomous Robots Workshop'
+excerpt: "6th edition of the Ontologies for Autonomous Robots Workshop"
 header:
   overlay_image: /images/banner2025.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -43,16 +43,16 @@ intuitive interfaces for knowledge inspection and modification.
 
 This edition of RobOntics is particularly interested in three interconnected themes:
 
-*Neuro-symbolic architectures for autonomous agents*: Exploring architectures that integrate neural
+_Neuro-symbolic architectures for autonomous agents_: Exploring architectures that integrate neural
 networks with symbolic reasoning systems, enabling robots to learn from data while maintaining
 interpretable knowledge structures and logical reasoning capabilities.
 
-*Cognitive-inspired world models for knowledge-driven reactive agents*: Investigating how
+_Cognitive-inspired world models for knowledge-driven reactive agents_: Investigating how
 cognitive principles can inform the development of dynamic world models that support rapid,
 knowledge-informed reactions to environmental changes while maintaining consistency with learned
 and encoded knowledge.
 
-*Knowledge-driven human-robot interaction*: Examining how ontological knowledge representation
+_Knowledge-driven human-robot interaction_: Examining how ontological knowledge representation
 can enhance robots' understanding of human behavior, intentions, and social contexts to enable more
 natural, effective, and trustworthy human-robot collaboration.
 
@@ -67,24 +67,23 @@ natural, effective, and trustworthy human-robot collaboration.
 
 Participants are invited to submit original papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
 
-- Foundational issues: 
-	- Are there some ontological approaches better suited than others for autonomous robotics? why?
-	- How should we ontologically model notions like capability, action, interaction, context etc. in robotics?
-	- How can ontology be used to model culture, cultural knowledge and cultural behavior?
-- Robustness: 
-	- How can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
-- Ontologies in the perception-action loop: 
-	- What roles can ontology play in autonomous manipulation?
-	- How can ontology be used to support machine learning for object classification?
-- Interactivity: 
-	- How can knowledge about other agents present in the environment be modelled?
-	- How can ontology be used to model the flow of an interaction, e.g., in the case of shared tasks?
-- Normed behavior: 
-	- How can we ontologically represent norms and cultural expectations?
-	- How can expectations be acquired? would they be the same for robots and for humans?
-- Explainability: 
-	- Decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
-what is an explanation? what is a good explanation? how it be generated from a collection of knowledge items?
+- Foundational issues:
+  - Are there some ontological approaches better suited than others for autonomous robotics? why?
+  - How should we ontologically model notions like capability, action, interaction, context etc. in robotics?
+  - How can ontology be used to model culture, cultural knowledge and cultural behavior?
+- Robustness:
+  - How can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
+- Ontologies in the perception-action loop:
+  - What roles can ontology play in autonomous manipulation?
+  - How can ontology be used to support machine learning for object classification?
+- Interactivity:
+  - How can knowledge about other agents present in the environment be modelled?
+  - How can ontology be used to model the flow of an interaction, e.g., in the case of shared tasks?
+- Normed behavior:
+  - How can we ontologically represent norms and cultural expectations?
+  - How can expectations be acquired? would they be the same for robots and for humans?
+- Explainability: - Decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
+  what is an explanation? what is a good explanation? how it be generated from a collection of knowledge items?
 
 **WORKSHOP CO-CHAIRS (alphabetical order)**
 
@@ -94,21 +93,17 @@ what is an explanation? what is a good explanation? how it be generated from a c
 - Robin Nolte, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
-
 **SUBMISSION INFORMATION**
 
 Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the CEUR format -- [laTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip) [overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). More information about CEUR style submissions is [available here](https://ceur-ws.org/HOWTOSUBMIT.html).
 
-Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members. 
+Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members.
 Papers must be submitted electronically in PDF, using this link:
 
 - [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
-
 
 **PUBLICATION**
 
 Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
 
-
-(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Calculatrice_m%C3%A9canique_Spitz_and_Co_(51256612622).jpg) under the Creative Commons Attribution 2.0 Generic license.)
-
+(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](<https://commons.wikimedia.org/wiki/File:Calculatrice_m%C3%A9canique_Spitz_and_Co_(51256612622).jpg>) under the Creative Commons Attribution 2.0 Generic license.)
