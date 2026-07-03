@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 excerpt: "6th edition of the Ontologies for Autonomous Robots Workshop"
 header:
-  overlay_image: /images/banner2026.jpg
+  overlay_image: /images/banner2026.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
