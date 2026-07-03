@@ -9,40 +9,11 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [IEEE RoboticCC 2025](https://www.roboticcomputing.org), Naples, Italy (hybrid event -- online participation also possible)
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [IEEE RoboticCC 2025](https://www.roboticcomputing.org), Naples, Italy (hybrid event -- online participation was also possible)
 
-**WORKSHOP MOTIVATION**
+**Special Topics of RobOntics 2025**
 
-RobOntics focuses on autonomous agents informed by knowledge-driven approaches, with particular
-emphasis on formal systems like ontologies, knowledge graphs, and their integration with neural
-architectures. The workshop aims to foster interaction across robotics, ontology, knowledge
-representation and reasoning, and neural computing to investigate promising cognitively-inspired
-knowledge based architectures, neuro-symbolic approaches and review progress in knowledge-driven
-robotics.
-
-Today, the convergence of symbolic knowledge representation and neural learning is reshaping
-robotics and standardization efforts for intelligent robotic systems. Many open problems involve
-autonomous agents that must seamlessly integrate symbolic reasoning with neural perception and
-learning while operating in natural, artificial, or socio-technical environments. Research projects in
-healthcare assistance, logistics, autonomous driving, and human-robot collaboration increasingly
-require robots that can both learn from experience and reason with explicit knowledge in realistic
-human environments.
-
-One of the key challenges is developing cognitive-inspired architectures that combine the flexibility of
-neural learning with the interpretability and structure of symbolic knowledge. Robotic agents need
-reactive world models that can rapidly adapt to dynamic environments while maintaining coherent
-knowledge representations. Further, knowledge-driven and commonsense knowledge-driven
-interaction capabilities must enable robots to understand, predict, and respond to human intentions and
-behaviors in natural, contextually-appropriate ways. Such knowledge should be reusable across
-different agents and scenarios while remaining accessible and modifiable by human operators.
-
-To garner trust, ensure dependability, and enable effective human-robot collaboration, hybrid
-intelligence systems must provide transparent explanations of their reasoning processes and offer
-intuitive interfaces for knowledge inspection and modification.
-
-**Special Topic of RobOntics 2025**
-
-This edition of RobOntics is particularly interested in three interconnected themes:
+This edition of RobOntics was particularly interested in three interconnected themes:
 
 _Neuro-symbolic architectures for autonomous agents_: Exploring architectures that integrate neural
 networks with symbolic reasoning systems, enabling robots to learn from data while maintaining
@@ -57,36 +28,14 @@ _Knowledge-driven human-robot interaction_: Examining how ontological knowledge 
 can enhance robots' understanding of human behavior, intentions, and social contexts to enable more
 natural, effective, and trustworthy human-robot collaboration.
 
-**IMPORTANT DATES**
+The important dates were
 
 - Submission deadline: October 29th, 2025
 - Notification: November 21st, 2025
 - Camera ready version: December 19th, 2025
 - Workshop: December 10th, 2025
 
-**LIST OF TOPICS (partial)**
-
-Participants are invited to submit original papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
-
-- Foundational issues:
-  - Are there some ontological approaches better suited than others for autonomous robotics? why?
-  - How should we ontologically model notions like capability, action, interaction, context etc. in robotics?
-  - How can ontology be used to model culture, cultural knowledge and cultural behavior?
-- Robustness:
-  - How can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
-- Ontologies in the perception-action loop:
-  - What roles can ontology play in autonomous manipulation?
-  - How can ontology be used to support machine learning for object classification?
-- Interactivity:
-  - How can knowledge about other agents present in the environment be modelled?
-  - How can ontology be used to model the flow of an interaction, e.g., in the case of shared tasks?
-- Normed behavior:
-  - How can we ontologically represent norms and cultural expectations?
-  - How can expectations be acquired? would they be the same for robots and for humans?
-- Explainability: - Decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
-  what is an explanation? what is a good explanation? how it be generated from a collection of knowledge items?
-
-**WORKSHOP CO-CHAIRS (alphabetical order)**
+**Organizers (alphabetical order)**
 
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano De Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
@@ -94,17 +43,42 @@ Participants are invited to submit original papers (5-8 pages + references) on t
 - Robin Nolte, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
-**SUBMISSION INFORMATION**
+**Scientific committee**
 
-Beside regular papers, position and survey papers are also welcome. All the contributions to the workshop must be submitted according to the CEUR format -- [laTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip) [overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). More information about CEUR style submissions is [available here](https://ceur-ws.org/HOWTOSUBMIT.html).
+* Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Trento, Italy
 
-Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members.
-Papers must be submitted electronically in PDF, using this link:
+* Robert Porzel, Digital Media Lab, University of Bremen, Germany
 
-- [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
+* Alberto Olivares-Alarcos, Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Barcelona, Spain
 
-**PUBLICATION**
+* Maria M. Hedblom, Jönköping AI Laboratory, Jönköping University, Sweden​
 
-Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
+* Mena Leemhuis, Faculty of Engineering, University of Bozen-Bolzano, Italy​
+
+* Oliver Kutz, Faculty of Engineering, University of Bozen-Bolzano, Italy​
+
+* Guendalina Righetti, Department of Philosophy, University of Oslo, Norway​
+
+* Mohammed Diab, Personal Robotics Laboratory, Imperial College London, UK
+
+* Alina Hawkin, Institute for Artificial Intelligence, University of Bremen, Germany
+
+# Accepted Papers
+
+The following papers have been accepted for [the proceedings of RobOntics 2025](https://ceur-ws.org/Vol-4169/):
+
+* Alberto Borboni, Giorgio Pedrazzi, Fabio Zanoletti: Normative-Aware Ontology for Assistive Robotics: Bridging Legal Accountability and Cognitive Autonomy in Elderly Care
+
+* Lars Vanderseypen, Senne Van Baelen, Maria I. Artigas, Nikolaos Tsiogkas, Herman Bruyninckx: Online self-adaptive behavior of mobile robots through skill knowledge graphs
+
+* Giovanni De Gasperis, Sante Dino Facchini, Tayyab Rehman: Ontology-Guided Multi-Modal Perception for Trusted and Explainable Robotic Action
+
+* Jona Thai, Michael Grüninger: Object2Plan: An Ontological Approach to Automated Generation of Assembly Plans from Objects
+
+* Muhammad Raza Naqvi, Arkopaul Sarkar, Farhad Ameri, Linda Elmhadhbi, Mohamed Hedi Karray: Semantic Representation of Robotic Function, Process Characteristics, and Quality
+
+* Amber Maimon, Iddo Yehoshua Wald, Mihai Pomarlan, Shiyao Zhang, Daniel Beßler, Robin Nolte, Dennis Küster, Robert Porzel, Tanja Schultz, Rainer Malaka: INTERO: A Model of Robotic Interoceptive Sensing
+
+* Michael McCain, Chris Davis Jaldi, Susan Shrestha, Shreyas Casturi, Cogan Shimizu: Towards a Modular Ontology for Autonomous Robotic Orchestration
 
 (Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](<https://commons.wikimedia.org/wiki/File:Calculatrice_m%C3%A9canique_Spitz_and_Co_(51256612622).jpg>) under the Creative Commons Attribution 2.0 Generic license.)
