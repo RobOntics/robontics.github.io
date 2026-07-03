@@ -4,42 +4,23 @@ layout: single
 author_profile: false
 excerpt: "6th edition of the Ontologies for Autonomous Robots Workshop"
 header:
-  overlay_image: /images/banner2025.jpg
+  overlay_image: /images/banner2026.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [IEEE RoboticCC 2025](https://www.roboticcomputing.org), Naples, Italy (hybrid event -- online participation was also possible)
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [TriCoLore]([https://www.roboticcomputing.org](https://tricolore.inf.unibz.it/)), December 3rd 2026, at PTH Brixen College, Bressanone, Italy
 
 **WORKSHOP MOTIVATION**
 
-RobOntics focuses on autonomous agents informed by knowledge-driven approaches, with particular
-emphasis on formal systems like ontologies, knowledge graphs, and their integration with neural
-architectures. The workshop aims to foster interaction across robotics, ontology, knowledge
-representation and reasoning, and neural computing to investigate promising cognitively-inspired
-knowledge based architectures, neuro-symbolic approaches and review progress in knowledge-driven
-robotics.
+RobOntics focuses on autonomous agents informed by knowledge-driven	approaches, with particular emphasis on formal systems like ontologies, knowledge graphs, and their integration with neural architectures. The	workshop aims to foster interaction across robotics, ontology, knowledge representation and reasoning, and neural computing to investigate	promising cognitively-inspired knowledge based architectures,	neuro-symbolic approaches and review progress in knowledge-driven robotics.
 
-Today, the convergence of symbolic knowledge representation and neural learning is reshaping
-robotics and standardization efforts for intelligent robotic systems. Many open problems involve
-autonomous agents that must seamlessly integrate symbolic reasoning with neural perception and
-learning while operating in natural, artificial, or socio-technical environments. Research projects in
-healthcare assistance, logistics, autonomous driving, and human-robot collaboration increasingly
-require robots that can both learn from experience and reason with explicit knowledge in realistic
-human environments.
+Today, the convergence of symbolic knowledge representation and neural learning is reshaping robotics and standardization efforts for intelligent	robotic systems. Many open problems involve autonomous agents that must	seamlessly integrate symbolic reasoning with neural perception and learning while operating in natural, artificial, or socio-technical	environments. Research projects in healthcare assistance, logistics, autonomous driving, and human-robot collaboration increasingly require robots that can both learn from experience and reason with explicit knowledge in realistic human environments.
 
-One of the key challenges is developing cognitive-inspired architectures that combine the flexibility of
-neural learning with the interpretability and structure of symbolic knowledge. Robotic agents need
-reactive world models that can rapidly adapt to dynamic environments while maintaining coherent
-knowledge representations. Further, knowledge-driven and commonsense knowledge-driven
-interaction capabilities must enable robots to understand, predict, and respond to human intentions and
-behaviors in natural, contextually-appropriate ways. Such knowledge should be reusable across
-different agents and scenarios while remaining accessible and modifiable by human operators.
+One of the key challenges is developing cognitive-inspired architectures that combine the flexibility of neural learning with the interpretability and structure of symbolic knowledge. Robotic agents need reactive world models that can rapidly adapt to dynamic environments while maintaining coherent knowledge representations. Further, knowledge-driven and commonsense knowledge-driven interaction capabilities must enable robots to understand, predict, and respond to human intentions and behaviors in natural, contextually-appropriate ways. Such knowledge should be reusable across different agents and scenarios while remaining accessible and modifiable by human operators.
 
-To garner trust, ensure dependability, and enable effective human-robot collaboration, hybrid
-intelligence systems must provide transparent explanations of their reasoning processes and offer
-intuitive interfaces for knowledge inspection and modification.
+To garner trust, ensure dependability, and enable effective human-robot collaboration, hybrid intelligence systems must provide transparent explanations of their reasoning processes and offer intuitive interfaces for knowledge inspection and modification.
 
-**Special Topic of RobOntics 2025**
+**Special Topic of RobOntics 2026**
 
 This edition of RobOntics is particularly interested in three interconnected themes:
 
@@ -58,14 +39,15 @@ natural, effective, and trustworthy human-robot collaboration.
 
 **IMPORTANT DATES**
 
-- Submission deadline: October 29th, 2025
-- Notification: November 21st, 2025
-- Camera ready version: December 19th, 2025
-- Workshop: December 10th, 2025
+- Submission deadline: September 18th, 2026
+- Notification: October 25th, 2026
+- Speaker registration deadline: November 10th, 2026
+- Camera ready version: November 16th, 2026
+- Workshop: December 3rd, 2026
 
 **LIST OF TOPICS (partial)**
 
-Participants are invited to submit original papers (5-8 pages + references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
+Participants are invited to submit original papers (6-14 pages including references) on the topics of particular interest described above, but contributions are also welcome on topics such as:
 
 - Foundational issues:
   - Are there some ontological approaches better suited than others for autonomous robotics? why?
@@ -87,10 +69,8 @@ Participants are invited to submit original papers (5-8 pages + references) on t
 
 **WORKSHOP CO-CHAIRS (alphabetical order)**
 
-- Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano De Giorgis, Department of Artificial Intelligence, Vrije Universiteit Amsterdam, Netherlands
 - Mihai Pomarlan, Digital Media Lab, University of Bremen, Germany
-- Robin Nolte, Digital Media Lab, University of Bremen, Germany
 - Nikos Tsiogkas, KU Leuven, Belgium
 
 **SUBMISSION INFORMATION**
@@ -100,10 +80,10 @@ Beside regular papers, position and survey papers are also welcome. All the cont
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance. Each paper will be reviewed by at least two Program Committee members.
 Papers must be submitted electronically in PDF, using this link:
 
-- [https://easychair.org/conferences/?conf=robontics2025](https://easychair.org/conferences/?conf=robontics2025)
+- [https://easychair.org/conferences/?conf=robontics2026](https://easychair.org/conferences/?conf=robontics2026)
 
 **PUBLICATION**
 
-Accepted works will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
+Accepted works will be published in an TriCoLore joint volume in the CEUR workshop proceedings series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
 
-(Banner image made by Frédéric Bisson and was uploaded to [wikimedia commons](<https://commons.wikimedia.org/wiki/File:Calculatrice_m%C3%A9canique_Spitz_and_Co_(51256612622).jpg>) under the Creative Commons Attribution 2.0 Generic license.)
+(Banner cropped from [an image posted to wikimedia commons](https://commons.wikimedia.org/wiki/File:Rechentrommel_von_Philipp_Matth%C3%A4us_Hahn.jpg) by Dr. Bernd Gross under the Creative Commons Attribution 2.0 Generic license.)
