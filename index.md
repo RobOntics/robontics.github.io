@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [TriCoLore]([https://www.roboticcomputing.org](https://tricolore.inf.unibz.it/)), December 3rd 2026, at PTH Brixen College, Bressanone, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS) @ [TriCoLore](https://tricolore.inf.unibz.it/), December 3rd 2026, at PTH Brixen College, Bressanone, Italy
 
 **WORKSHOP MOTIVATION**
 
