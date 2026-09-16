@@ -39,7 +39,7 @@ natural, effective, and trustworthy human-robot collaboration.
 
 **IMPORTANT DATES**
 
-- Submission deadline: September 18th, 2026
+- Submission deadline: October 12th, 2026
 - Notification: October 25th, 2026
 - Speaker registration deadline: November 10th, 2026
 - Camera ready version: November 16th, 2026
