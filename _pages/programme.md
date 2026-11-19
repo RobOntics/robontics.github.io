@@ -7,7 +7,7 @@ Date: December 3rd
 Venue: Philosophical-Theological College Brixen, Seminargasse 4 / Viale Seminario 4, 39042 Brixen / Bressanone, Italy. Zoom link for online participation TBA
 
 MORNING SESSION
-* 09:00 - 10:00 Keynote: [Ilaria Tiddi: _Towards Embodied Hybrid Intelligence with Symbolic AI_](robontics.org/speakers)
+* 09:00 - 10:00 Keynote: [Ilaria Tiddi: _Towards Embodied Hybrid Intelligence with Symbolic AI_](https://robontics.org/speakers)
 * 10:00 - 10:15 Coffee break
 * 10:15 - 10:35 Branislav Zigo, Martin Homola, Júlia Pukancová, Ján Kľuka and Igor Farkaš: _From Human Manipulation to Explainable Robot Action: Embodied Ontology Induction for Vision–Language–Action Humanoids_
 * 10:35 - 10:55 Lars Vanderseypen, Nikolaos Tsiogkas and Herman Bruyninckx: _Adaptive multi-robot navigation through online generation of traffic layout semantic graphs_
